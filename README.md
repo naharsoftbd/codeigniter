@@ -1,2 +1,2 @@
-# codeigniter
+# Codeigniter
 Codeigniter Projects 
